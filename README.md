@@ -5,7 +5,7 @@ Final-year B.Tech Software Engineering student at Delhi Technological University
 - 🔭 Currently building projects across AI/ML, systems programming, and applied security
 - 🛡️ Cybersecurity intern experience (VAPT) at CDAC Noida
 - 🌱 Interests: penetration testing, systems-level programming, applied ML
-- 📫 Reach me: [LinkedIn](#) · [Email](#)
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/sourav-malhotra-761ba028a/) · [Email](malhotrasourav64@gmail.com)
 
 ---
 
@@ -15,7 +15,7 @@ Final-year B.Tech Software Engineering student at Delhi Technological University
 `Python` `RAG` `LangChain` `ChromaDB` `Whisper` `Mistral` `Streamlit`
 End-to-end RAG pipeline (LangChain LCEL, ChromaDB, Sentence Transformers) enabling subsecond semantic retrieval across text + audio, 40% higher relevance vs. keyword search. LLM-agnostic backend with plug-and-play Mistral AI / OpenAI support. Streamlit UI with PDF export via ReportLab.
 
-**Linux Memory Manager**
+**[Linux Memory Manager](https://github.com/sourav-malhotra/linux-memory-manager)**
 `C` `OS Internals` `Paging` `Free-List Allocation`
 Custom memory-management module implementing paging and free-list mechanisms, cutting memory fragmentation from 20% to 15% and improving allocation time by 30% under stress testing.
 
@@ -24,10 +24,7 @@ Custom memory-management module implementing paging and free-list mechanisms, cu
 Real-time sign language recognition using MediaPipe pose estimation and LSTM classifiers, processing 30+ FPS video streams. Trained on 5,000+ labeled gesture samples with 92.4% validation accuracy and <150ms prediction latency.
 
 | Project | Description | Stack |
-|---|---|---|
-| **[MindMitra](https://github.com/sourav-malhotra/MindMitra)** | _(add a one-line description)_ | TypeScript |
-| **[doctor-appointment-system](https://github.com/sourav-malhotra/doctor-appointment-system)** | _(add a one-line description)_ | JavaScript |
-| **[ai-movie-insight-viewer](https://github.com/sourav-malhotra/ai-movie-insight-viewer)** | _(add a one-line description)_ | TypeScript |
+|---|---|---|| **[ai-movie-insight-viewer](https://github.com/sourav-malhotra/ai-movie-insight-viewer)** | _Enter an IMDb ID. Get the full picture — powered by AI._ | TypeScript |
 
 ---
 
