@@ -23,8 +23,7 @@ Custom memory-management module implementing paging and free-list mechanisms, cu
 `Python` `OpenCV` `MediaPipe` `TensorFlow` `LSTM`
 Real-time sign language recognition using MediaPipe pose estimation and LSTM classifiers, processing 30+ FPS video streams. Trained on 5,000+ labeled gesture samples with 92.4% validation accuracy and <150ms prediction latency.
 
-| Project | Description | Stack |
-|---|---|---|| **[ai-movie-insight-viewer](https://github.com/sourav-malhotra/ai-movie-insight-viewer)** | _Enter an IMDb ID. Get the full picture — powered by AI._ | TypeScript |
+
 
 ---
 
